@@ -17,4 +17,4 @@ A simple Python command-line tool to convert temperatures between Celsius and Fa
 ---
 
 ## Output Screen
-![CLI Output Screenshot](output.png)
+![Output Screenshot](Output.png)
